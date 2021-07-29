@@ -1,4 +1,4 @@
-
+// data
 const data =  
 {
     "prices": [
@@ -229,7 +229,7 @@ const data =
                     'rgba(255, 99, 132, 0.2)'
                 ],
                 borderColor: [
-                    'rgba(255, 99, 132, 1)'
+                    'rgb(20,255,243)'
                 ],
                 borderWidth: 1
             }]
